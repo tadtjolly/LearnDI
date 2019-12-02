@@ -1,0 +1,16 @@
+D:\LearnDI\LearnDI\bin\Debug\netcoreapp2.2\LearnDI.deps.json
+D:\LearnDI\LearnDI\bin\Debug\netcoreapp2.2\LearnDI.runtimeconfig.json
+D:\LearnDI\LearnDI\bin\Debug\netcoreapp2.2\LearnDI.runtimeconfig.dev.json
+D:\LearnDI\LearnDI\bin\Debug\netcoreapp2.2\LearnDI.dll
+D:\LearnDI\LearnDI\bin\Debug\netcoreapp2.2\LearnDI.pdb
+D:\LearnDI\LearnDI\bin\Debug\netcoreapp2.2\Core.dll
+D:\LearnDI\LearnDI\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\LearnDI\LearnDI\bin\Debug\netcoreapp2.2\Core.pdb
+D:\LearnDI\LearnDI\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\LearnDI\LearnDI\obj\Debug\netcoreapp2.2\LearnDI.csprojAssemblyReference.cache
+D:\LearnDI\LearnDI\obj\Debug\netcoreapp2.2\LearnDI.csproj.CoreCompileInputs.cache
+D:\LearnDI\LearnDI\obj\Debug\netcoreapp2.2\LearnDI.AssemblyInfoInputs.cache
+D:\LearnDI\LearnDI\obj\Debug\netcoreapp2.2\LearnDI.AssemblyInfo.cs
+D:\LearnDI\LearnDI\obj\Debug\netcoreapp2.2\LearnDI.csproj.CopyComplete
+D:\LearnDI\LearnDI\obj\Debug\netcoreapp2.2\LearnDI.dll
+D:\LearnDI\LearnDI\obj\Debug\netcoreapp2.2\LearnDI.pdb
